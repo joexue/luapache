@@ -1,5 +1,5 @@
 # luapache
-A tiny webserver writted by lua script
+A tiny webserver written by lua script
 
   Luapache is a tiny web server written by lua script, which supports CGI and
   GET operation. luapache has no the network function, you have to use it with
