@@ -4,7 +4,7 @@
   luapache.lua
   * Copyright (c) 2016 Joe Xue lgxue@hotmail.com
 
-  Luapache is a tiny web server writted by lua script, which supports CGI and
+  Luapache is a tiny web server written by lua script, which supports CGI and
   GET operation. luapache has no the network function, you have to use it with
   netcat or openssl to get a http or https web server.
 
